@@ -1,0 +1,620 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The three epistles of Aulus Sabinus in answer to as many of Ovid made English by Mr. Salusbury.</title>
+            <author>Sabinus, Angelus, 15th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58860</idno>
+            <idno type="STC">Wing S213</idno>
+            <idno type="STC">ESTC R33577</idno>
+            <idno type="EEBO-CITATION">13523703</idno>
+            <idno type="OCLC">ocm 13523703</idno>
+            <idno type="VID">99952</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58860)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99952)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1556:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The three epistles of Aulus Sabinus in answer to as many of Ovid made English by Mr. Salusbury.</title>
+                  <author>Sabinus, Angelus, 15th cent.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jacob Tonson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXVIII [1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99952:1"/>
+            <pb facs="tcp:99952:1"/>
+            <p>THE THREE EPISTLES OF Aulus Sabinus: In Anſwer to as many of OVID.</p>
+            <p>Made ENGLISH BY Mr. <hi>SALUSBURY.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Jacob Tonſon,</hi> at the Judges-Head in <hi>Chancery-Lane,</hi> near <hi>Fleet-ſtreet. M DC LXXXVIII.</hi>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:99952:2"/>
+            <pb facs="tcp:99952:2"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <hi>AUlus Sabinus</hi> flouriſhed in the Reign of <hi>Auguſtus,</hi> and was contempora<g ref="char:EOLhyphen"/>ry with <hi>Ovid.</hi> He wrote a Book of Elegies to his Miſtreſs <hi>Triſena:</hi> Left ſome unfiniſh'd Poems of the Ancient Roman Re<g ref="char:EOLhyphen"/>ligion and Ceremonies. He alſo wrote ſeve<g ref="char:EOLhyphen"/>ral Epiſtles like <hi>Ovid's;</hi> and theſe parti<g ref="char:EOLhyphen"/>cularly in anſwer to ſo many of that excel<g ref="char:EOLhyphen"/>lent Poet's, viz. <hi>Hippolytus</hi> to <hi>Phaedra, Aeneas</hi> to <hi>Dido, Jaſon</hi> to <hi>Hypſipyla, Phaon</hi> to <hi>Sappho, Ulyſſes</hi> to <hi>Penelope, Demo<g ref="char:EOLhyphen"/>phoon</hi> to <hi>Phyllis,</hi> and <hi>Paris</hi> to <hi>OEnone,</hi> Of all which the injury of time has depri<g ref="char:EOLhyphen"/>ved us; the three laſt excepted.</p>
+            <p>The Learned <hi>Heinſius</hi> ſpeaking of theſe
+<pb facs="tcp:99952:3"/>
+               <hi>three Epiſtles,</hi> calls them a Treaſure; And indeed they expreſs ſo much of a true Poe<g ref="char:EOLhyphen"/>tick Genius, and maintain their Character ſo well, that it has been thought fit in this Edition to give an Engliſh Verſion of them: And that the rather, becauſe in all the late and beſt Editions of <hi>Ovid's</hi> Works, theſe <hi>Epiſtles</hi> of <hi>Sabinus</hi> are found inſerted.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="poem">
+            <pb n="1" facs="tcp:99952:3"/>
+            <head>EPIST. I. ULYSSES TO PENELOPE.</head>
+            <argument>
+               <head>The ARGUMENT.</head>
+               <p>Ulyſſes <hi>having received</hi> Penelope's Epiſtle, <hi>by this anſwer endeavours to clear her doubts, and calm her thoughts. He tells her with what For<g ref="char:EOLhyphen"/>titude he had gone through the various hardſhips that had befaln him; and that having conſulted</hi> Tireſias <hi>and</hi> Pallas, <hi>he was determin'd to return ſuddenly to</hi> Ithaca, <hi>but (to comply with the Oracles) alone, and in diſguiſe. And as he is careful to magni<g ref="char:EOLhyphen"/>fy his Love, and Fears for her, and her extraor<g ref="char:EOLhyphen"/>dinary Conſtancy and Chaſtity: So he forgets not to tell her what he ſaw in</hi> Eliſium, <hi>whither he went to conſult</hi> Tireſias.</p>
+            </argument>
+            <l>CHance does at laſt let ſad <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes</hi> ſee</l>
+            <l>The welcome Lines of his <hi>Penelope</hi>
+            </l>
+            <l>
+               <pb n="2" facs="tcp:99952:4"/>
+So much thy known dear Characters did pleaſe,</l>
+            <l>That my long troubles found an inſtant eaſe.</l>
+            <l>If I am ſlow, 'tis only to relate</l>
+            <l>To thee my many wounds from angry Fate.</l>
+            <l>Well might the <hi>Greeks</hi> indeed have thought me ſlow,</l>
+            <l>When by feign'd Madneſs I delay'd to go:</l>
+            <l>Nor Will nor Power had I to leave thy Bed,</l>
+            <l>But to poſſeſs thy Charms from Honour fled.</l>
+            <l>You bid me come and never ſtay to write;</l>
+            <l>But adverſe Winds detain me from thy ſight.</l>
+            <l>
+               <hi>Troy</hi> hinders not, a place once ſo rever'd,</l>
+            <l>In Aſhes now, no longer to be fear'd.</l>
+            <l>
+               <hi>Hector</hi> and all her mighty men of Fame</l>
+            <l>Are now no more, are nothing but a Name.</l>
+            <l>By night the <hi>Thracian</hi> Monarch <hi>Rheſus</hi> ſlain,</l>
+            <l>I ſafely to our Camp return'd again:</l>
+            <l>Leading his warlike Horſes my juſt Spoil,</l>
+            <l>The Noble Triumph for the Victor's toil.</l>
+            <l>The Shrine wherein the <hi>Phrygian</hi> ſafety lay,</l>
+            <l>My fortunate contrivance brought away.</l>
+            <l>
+               <pb n="3" facs="tcp:99952:4"/>
+Shut in that Horſe that prov'd the bane of <hi>Troy,</hi>
+            </l>
+            <l>Unmov'd I heard <hi>Caſſandra</hi> cry, deſtroy</l>
+            <l>The Engine quick; the Foe your ruin ſeeks:</l>
+            <l>Burn, burn it quite, nor truſt the crafty <hi>Greeks.</hi>
+            </l>
+            <l>To me oblig'd the great <hi>Achilles</hi> lies</l>
+            <l>For his laſt Rites, his Funeral Obſequies:</l>
+            <l>Which action ſo the <hi>Grecian</hi> army warms,</l>
+            <l>For his recover'd Corps they give his Arms.</l>
+            <l>But, what avails! the Sea has all engroſt!</l>
+            <l>My Ships, my Arms, and my Companions loſt!</l>
+            <l>Tho all things elſe Fate's Cruelties remove,</l>
+            <l>They have no power to ſhake my conſtant Love.</l>
+            <l>That ſtill endures, and triumphs over all;</l>
+            <l>Nor can by <hi>Scylla,</hi> or <hi>Charibdis</hi> fall.</l>
+            <l>To alter that the charming <hi>Sirens</hi> fail;</l>
+            <l>Nor can the fell <hi>Antiphates</hi> prevail.</l>
+            <l>Not touch'd by <hi>Circe</hi>'s Arts from her I fled;</l>
+            <l>Nay ſhun'd the proffer of a Goddeſs's Bed:</l>
+            <l>Each promis'd, ſo ſhe might become my Wife,</l>
+            <l>To give me deathleſs Joys, and endleſs Life.</l>
+            <l>
+               <pb n="4" facs="tcp:99952:5"/>
+Both I reject, and having thee in view,</l>
+            <l>My dangerous Travels chearfully renew.</l>
+            <l>Let not theſe Female Names beget new fears,</l>
+            <l>Alarm thy breaſt, nor drown thine eyes in tears:</l>
+            <l>What <hi>Circe,</hi> what <hi>Calypſo</hi> cou'd effect:</l>
+            <l>Secure of me, all chilling doubts neglect.</l>
+            <l>That you my open Soul may naked view,</l>
+            <l>I will confeſs, that I have fear'd for you.</l>
+            <l>When I was told how numerous a reſort</l>
+            <l>Of eager Rivals crowded in your Court;</l>
+            <l>All pale I grew, life left my outward part,</l>
+            <l>Scarce the retiring blood preſerv'd my heart.</l>
+            <l>Beſieg'd by preſſing youthful Lovers round,</l>
+            <l>Their Bowls with Wine, their Heads with Roſes crown'd,</l>
+            <l>My growing doubts to wild diſorders haſte;</l>
+            <l>Ah! can I think ſhe ſtill is mine, and chaſte!</l>
+            <l>If me ſhe wept, her Charms wou'd not be ſuch:</l>
+            <l>Cou'd ſhe thus conquer, if ſhe ſorrow'd much?</l>
+            <l>Yet quickly love returns, when I perceive</l>
+            <l>How well your chaſte your pious Arts deceive</l>
+            <l>
+               <pb n="5" facs="tcp:99952:5"/>
+Your haſty Suitors, and procure delay,</l>
+            <l>By night undoing what you weave by day.</l>
+            <l>Yet fear I, leſt ſome buſie Lover's eyes</l>
+            <l>Thee at thy honeſt Artifice ſurpriſe.</l>
+            <l>Better by <hi>Polyphemus</hi> had I dy'd,</l>
+            <l>Than know thee ſacrific'd to Luſt and Pride.</l>
+            <l>Better to <hi>Thracian</hi> Arms have faln a prey,</l>
+            <l>Whilſt there as yet my wandring Navy lay.</l>
+            <l>Or then have yielded finally to Fate,</l>
+            <l>When I return'd ſafe from the <hi>Stygian</hi> State.</l>
+            <l>'Twas there I ſaw, among th'immortal Dead,</l>
+            <l>My late dear Mother's venerable Shade.</l>
+            <l>She told his Houſe's troubles to her Son;</l>
+            <l>I griev'd ſhe thrice did my embraces ſhun.</l>
+            <l>There too the great <hi>Proteſilaus</hi> I met,</l>
+            <l>Who ſcorning Death, firſt of the <hi>Grecian</hi> Fleet</l>
+            <l>With Hoſtile Arms the <hi>Phrygian</hi> Shores did greet.</l>
+            <l>Now happy with his much prais'd Wife he roves</l>
+            <l>Fearleſs of change, through the <hi>Eliſian</hi> Groves:</l>
+            <l>
+               <pb n="6" facs="tcp:99952:6"/>
+Lamenting not he did ſo young deſcend;</l>
+            <l>Pleas'd with an Early ſince ſo Brave an end,</l>
+            <l>I ſaw, alas! nor cou'd from tears refrain,</l>
+            <l>The noble <hi>Agamemnon</hi> newly ſlain.</l>
+            <l>That mighty Chief, glorious and ſafe at <hi>Troy,</hi>
+            </l>
+            <l>Eſcaping too in the <hi>Eubean</hi> Sea,</l>
+            <l>Where furious <hi>Nauplius</hi>'s horrid Arts had done</l>
+            <l>Such ills, for Vengeance for his guilty Son.</l>
+            <l>But whilſt, rejoycing for his ſafe return,</l>
+            <l>
+               <hi>Atrides</hi> does his grateful Incenſe burn,</l>
+            <l>By impious hands his ſacred Blood is ſpill'd,</l>
+            <l>And by a thouſand Wounds the Prince is kill'd,</l>
+            <l>This tragick end had the great Hero's Life,</l>
+            <l>Contriv'd and manag'd by a wretched Wife;</l>
+            <l>Pretending Vengeance for his Amorous Crime,</l>
+            <l>To cover her's, ſtrikes firſt and murders him,</l>
+            <l>When Victory had bleſt the <hi>Grecian</hi> ſide,</l>
+            <l>And we our <hi>Trojan</hi> Pris'ners did divide,</l>
+            <l>Great <hi>Hector</hi>'s Wife and Siſter I refuſe,</l>
+            <l>And the old <hi>Hecuba</hi> do rather chuſe;</l>
+            <l>
+               <pb n="7" facs="tcp:99952:6"/>
+To her neglected Age I give my Voice,</l>
+            <l>Leſt Love might ſeem to mingle in the Choice.</l>
+            <l>No longer her in humane form we meet,</l>
+            <l>A fearful Omen to my parting Fleet,</l>
+            <l>Her enrag'd heart with grief and rancour burns,</l>
+            <l>And ſuddenly to a mad Bitch ſhe turns;</l>
+            <l>In barking, howles, and ſnarling now ſhe ends</l>
+            <l>The loud Complaints her wild Affliction ſends.</l>
+            <l>As if amaz'd, the late calm Winds and Sea</l>
+            <l>Start into Tempeſts at the Prodigy.</l>
+            <l>By dangerous Storms now am I rudely toſt;</l>
+            <l>Now wandering long in unknown Regions loſt.</l>
+            <l>But if the wiſe <hi>Tireſias</hi> can as well</l>
+            <l>Our future Joyes as Miſeries foretell;</l>
+            <l>The prophecy'd Diſaſters having paſt,</l>
+            <l>I enter on my kinder Fate at laſt.</l>
+            <l>
+               <hi>Pallas</hi> now joyns me on an unknown Coaſt:</l>
+            <l>Safe led by her I can no more be loſt.</l>
+            <l>
+               <hi>Pallas,</hi> whom now the firſt time I ſalute</l>
+            <l>Since <hi>Ilium's</hi> fall, pleas'd hears my humble ſuit.</l>
+            <l>
+               <pb n="8" facs="tcp:99952:7"/>
+What mighty Ills upon the <hi>Greeks</hi> were brought</l>
+            <l>By raſh <hi>Oilides</hi> bold and ſingle fault!</l>
+            <l>Not ev'n <hi>Tydides</hi> did the Goddeſs ſpare,</l>
+            <l>His Vertue too did our Affliction ſhare.</l>
+            <l>None could his Favour, or his Merit plead,</l>
+            <l>But all were puniſh'd for the impious Deed.</l>
+            <l>Yet happy <hi>Menelaus</hi> no Chance could harm;</l>
+            <l>His beauteous Wife was ſtill a Counter-charm;</l>
+            <l>In vain the Winds, in vain the Billows rage,</l>
+            <l>While ſhe is there his Paſſion to aſſwage.</l>
+            <l>Winds had no power his Kiſſes to reſtrain,</l>
+            <l>Nor his Embraces the tumultuous Main.</l>
+            <l>Thrice happy I, did I but travel ſo,</l>
+            <l>For calm'd by thee all Seas wou'd gentle grow.</l>
+            <l>But ſince <hi>Telemachus</hi> with thee I hear</l>
+            <l>Is ſafe, extreamly leſſen'd is my care.</l>
+            <l>Whoſe too raſh Voyage yet I needs muſt blame,</l>
+            <l>What ever <hi>Sparta</hi> cou'd or <hi>Pylos</hi> claim.</l>
+            <l>Too weak th'excuſe ev'n of his Piety,</l>
+            <l>For vent'ring out in ſuch a dangerous Sea.</l>
+            <l>
+               <pb n="9" facs="tcp:99952:7"/>
+But now the Prophet bids me hope, ill Fate</l>
+            <l>Is o're, and now I thy Embraces wait.</l>
+            <l>Alone I come; temper thy riſing Joy,</l>
+            <l>For all Exceſſes equally deſtroy.</l>
+            <l>Not open Force, but Management and Art,</l>
+            <l>The Gods foretell, will Victory impart.</l>
+            <l>Amidſt a Feaſt, and in the heights of Wine,</l>
+            <l>Perhaps my juſt Revenge I may deſign,</l>
+            <l>And make the ſcorn'd <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes</hi> nobler ſhine.</l>
+            <l>Swift fly the hours, and ſpeed that happy day;</l>
+            <l>And when arriv'd, for Ages let it ſtay<hi>:</hi>
+            </l>
+            <l>That day! that ſhall reſtore Joys ſo long fled,</l>
+            <l>And all th'intrancing Pleaſures of thy Bed.</l>
+         </div>
+         <div n="2" type="poem">
+            <pb n="10" facs="tcp:99952:8"/>
+            <head>EPIST. II. DEMOPHOON <hi>to</hi> PHILLIS. By the ſame Hand.</head>
+            <argument>
+               <head>The ARGUMENT.</head>
+               <p>Phillis, <hi>the young Queen of</hi> Thrace, <hi>impatient of the too long abſence of her lately married Husband</hi> De<g ref="char:EOLhyphen"/>mophoon, <hi>the Son of</hi> Theſeus <hi>King of</hi> Athens, <hi>had written him a very paſſionate Letter, intermixt with Hope, Fear, Love, and Deſpair. Which Letter</hi> De<g ref="char:EOLhyphen"/>mophoon <hi>receiving, he returns this Anſwer. Where<g ref="char:EOLhyphen"/>in owning all her kindneſs, he ſhews he loves her with an extream paſſion; and that he has no thoughts of any other love: tells her, that the diſorders of his Family, requiring more time to re-ſettle than he ex<g ref="char:EOLhyphen"/>pected, are the true and only cauſes of his ſtay. He gently blames her doubts, and her impatience; hand<g ref="char:EOLhyphen"/>ſomly excuſes himſelf; promiſes an inviolable Con<g ref="char:EOLhyphen"/>ſtancy, and that his Affairs ſettled, he will certainly return.</hi>
+               </p>
+            </argument>
+            <l>WHilſt this is from recover'd <hi>Athens</hi> ſent,</l>
+            <l>Can I forget the Aid my <hi>Phillis</hi> lent?</l>
+            <l>No other Torch has Hymen held for me,</l>
+            <l>Ah! were I happy now as when with thee!</l>
+            <l>
+               <pb n="11" facs="tcp:99952:8"/>
+               <hi>Theſeus</hi> (whoſe Noble Blood your mind did move</l>
+            <l>Much leſs than your own free unbiaſs'd love)</l>
+            <l>Hard Fate for us! driv'n from his Regal Throne,</l>
+            <l>But Death has put the bold Uſurper down.</l>
+            <l>
+               <hi>Theſeus,</hi> who did an equal glory ſhare</l>
+            <l>With great <hi>Alcides</hi> in the toils of War,</l>
+            <l>When the brave Heroes, with united ſtrength,</l>
+            <l>Broke the fierce <hi>Amazonian</hi> Troops at length.</l>
+            <l>
+               <hi>Theſeus,</hi> who, when the <hi>Minotaur</hi> he'd ſlain,</l>
+            <l>Did of an Enemy a Father gain.</l>
+            <l>Cou'd ſuch a Prince, cou'd ſuch a Parent be,</l>
+            <l>Without a Crime, abandon'd left by me?</l>
+            <l>This, my dear <hi>Phillis,</hi> is <hi>Demophoon</hi>'s charge;</l>
+            <l>On this my Brother loudly does enlarge.</l>
+            <l>You preſs, he cries, for the fair <hi>Thracian</hi>'s Charms,</l>
+            <l>And all your courage ſoften in her Arms.</l>
+            <l>Swiftly the while Occaſion flies away,</l>
+            <l>And our diſaſters grow by your delay.</l>
+            <l>Our Fathers Fate, had you made haſt on board,</l>
+            <l>You had prevented, or with eaſe reſtor'd.</l>
+            <l>
+               <pb n="12" facs="tcp:99952:9"/>
+Shou'd <hi>Athens</hi> leſs to you than <hi>Thrace</hi> appear,</l>
+            <l>Or why a Woman more than both be dear?</l>
+            <l>Thus rages <hi>Acamas.</hi> Old <hi>Ethra</hi> now</l>
+            <l>With equal anger bends her wrinkled brow;</l>
+            <l>That her Son's hands cloſe not her aged eyes,</l>
+            <l>On my delay with feeble wrath ſhe flies.</l>
+            <l>I ſilent ſtand, while me they both accuſe;</l>
+            <l>Nor on their anger, but thy abſence muſe.</l>
+            <l>Methinks this moment ſtill I hear 'em ſay,</l>
+            <l>While on thy Coaſt my ſhatter'd Navy lay,</l>
+            <l>To Sea, to Sea, the Weather now is kind,</l>
+            <l>On board, and ſpread thy Canvas to the Wind.</l>
+            <l>By what, hard <hi>Demophoon,</hi> art thou ſo took!</l>
+            <l>To thy loſt Country, and thy Father look.</l>
+            <l>
+               <hi>Phillis</hi> you love, her your example make,</l>
+            <l>Her Country ſhe for Love will not forſake.</l>
+            <l>Begs your return, but with you will not ſtir;</l>
+            <l>And does a barb'rous Crown to yours prefer.</l>
+            <l>Yet in the midſt of all, how oft I pray'd,</l>
+            <l>By adverſe winds to be ſtill longer ſtay'd!</l>
+            <l>
+               <pb n="13" facs="tcp:99952:9"/>
+Oft when I parting did embrace thy neck,</l>
+            <l>I bleſt the Storms that did our parting check.</l>
+            <l>Nor to my Father will I fear to own</l>
+            <l>What e're for my ſweet <hi>Phillis</hi> I have done;</l>
+            <l>That I avow, or he the ſtory hear,</l>
+            <l>Is owing to the merits of my Fair.</l>
+            <l>I'le tell him freely that I cou'd not leave</l>
+            <l>Thy dear embraces, but my Soul muſt grieve.</l>
+            <l>What rocky breaſt from ſuch a Wife cou'd part,</l>
+            <l>But weeping eyes wou'd ſpeak his ſinking heart!</l>
+            <l>The Ships ſhe might deny, ſhe does beſtow,</l>
+            <l>And only bids they be a little ſlow.</l>
+            <l>Nor can he chuſe but pardon ſuch a Crime.</l>
+            <l>Bright <hi>Ariadne's</hi> not ſo loſt in him:</l>
+            <l>Up to the Stars when e're he caſts his Eyes,</l>
+            <l>He ſees his ſhining Miſtreſs in the Skies.</l>
+            <l>My Father's blam'd, as he his Wife forſook,</l>
+            <l>Tho' by a God ſhe forcibly was took.</l>
+            <l>Shall my ill Fate too, <hi>Phillis,</hi> be the ſame?</l>
+            <l>Enquire the cauſe, nor me unjuſtly blame.</l>
+            <l>
+               <pb n="14" facs="tcp:99952:10"/>
+Take this ſure Pledge for <hi>Demophoon</hi>'s return,</l>
+            <l>His heart for you, for you alone does burn.</l>
+            <l>Is't poſſible you ignorant can be</l>
+            <l>Of the diſaſters of my Family?</l>
+            <l>I mourn a Parent's Fate, involv'd in ſnares:</l>
+            <l>And oh that nothing elſe employ'd my cares!</l>
+            <l>My Soul laments a Noble Brother dead;</l>
+            <l>Torn by his frighted Horſes as he fled.</l>
+            <l>Not to excuſe returning have I told</l>
+            <l>Some of the many cauſes that with-hold</l>
+            <l>Me from thy Ports. Believe it Fortune's crime,</l>
+            <l>That I ſtill beg of thee a little time.</l>
+            <l>Declining <hi>Theſeus</hi> I muſt firſt inter:</l>
+            <l>Honour will that to every thing prefer.</l>
+            <l>That done, for which my prayers I do repeat</l>
+            <l>For leave, to <hi>Thrace</hi> I inſtantly retreat.</l>
+            <l>I am not falſe, but ſtill adore thy Charms;</l>
+            <l>Nor do I think I'm ſafe but in thy Arms.</l>
+            <l>Not War, nor Tempeſts, ſince the fall of <hi>Troy,</hi>
+            </l>
+            <l>Cou'd me in my return ſo much annoy</l>
+            <l>
+               <pb n="15" facs="tcp:99952:10"/>
+To cauſe delay: No, that was only ſeen</l>
+            <l>Effected by the kind fair <hi>Thracian</hi> Queen.</l>
+            <l>Caſt on thy Shores, thou freely didſt ſupply,</l>
+            <l>To all my preſſing Wants a Remedy.</l>
+            <l>Be ſtill the ſame: Then nothing ſhall remove</l>
+            <l>The happy <hi>Demophoon</hi> from <hi>Phillis</hi> Love.</l>
+            <l>What if a ten years War ſhou'd now renew,</l>
+            <l>That Honour ſhou'd engage me to purſue?</l>
+            <l>
+               <hi>Penelope</hi> thy great Example be,</l>
+            <l>So fam'd for her Unſpotted Chaſtity.</l>
+            <l>Her curious artful Web, ill underſtood,</l>
+            <l>Did her hot Lovers cunningly elude.</l>
+            <l>The Woof advanc'd by day, the nights reſtrain,</l>
+            <l>And ravel to its Primitive Wool again.</l>
+            <l>But you with fear, it ſeems, are almoſt dead,</l>
+            <l>Leſt the ſcorn'd <hi>Thracians</hi> ſhou'd deſpiſe your Bed.</l>
+            <l>Ah, cruel! cou'd you with another wed?</l>
+            <l>Is then your Love, is then your Faith ſo light?</l>
+            <l>Nor can the fear of broken Vows affright?</l>
+            <l>
+               <pb n="16" facs="tcp:99952:11"/>
+Think what your ſhame, think what your grief will be</l>
+            <l>When my returning Sails from far you ſee.</l>
+            <l>Then all in vain repenting tears will flow,</l>
+            <l>And own the Conſtancy you queſtion now.</l>
+            <l>
+               <hi>Demophoon</hi> comes<hi>!</hi> then in amaze, you'l cry;</l>
+            <l>And to my Arms through Winter Storms does fly.</l>
+            <l>Ah, why ſo great a Guilt did I contract!</l>
+            <l>And what I blam'd in him why did I act!</l>
+            <l>But Heaven avert: Nor let it e're be ſaid,</l>
+            <l>That thy fair Vertue cou'd be ſo miſled.</l>
+            <l>If ſuch a Fate ſhou'd on my <hi>Phillis</hi> light,</l>
+            <l>The mighty Load wou'd overwhelm me quite.</l>
+            <l>But ah! what direful threatning words are thoſe,</l>
+            <l>With which your Letter you unkindly cloſe!</l>
+            <l>Abſtain, at leaſt till greater Cauſe you ſee,</l>
+            <l>To charge my Houſe with double perfidy.</l>
+            <l>It to deſert the <hi>Cretan</hi> were a fault;</l>
+            <l>Yet I've done nothing to be guilty thought.</l>
+            <l>Farewel my Hope's beſt Object, Soul of Love:</l>
+            <l>All that obſtructs our meeting Heaven remove.</l>
+            <l>
+               <pb n="17" facs="tcp:99952:11"/>
+May every Joy Love can, or Fortune give,</l>
+            <l>For ever with my Charming <hi>Phillis</hi> live.</l>
+            <l>The Winds now bear my words; my Perſon they</l>
+            <l>I hope ſhall ſafely to thy Arms convey:</l>
+            <l>There to repeat another Nuptial day.</l>
+            <l>My Wiſhes are with thee: and that I pauſe,</l>
+            <l>My Duty, and my Honour are the Cauſe.</l>
+         </div>
+         <div n="3" type="poem">
+            <pb n="18" facs="tcp:99952:12"/>
+            <head>EPIST III. PARIS TO OENONE, By the ſame Hand.</head>
+            <argument>
+               <head>The ARGUMENT.</head>
+               <p>
+                  <hi>The forſaken Nymph</hi> OEnone <hi>having written to</hi> Paris, <hi>to perſwade him to return again to her Em<g ref="char:EOLhyphen"/>braces, and to ſend back the Fair</hi> Grecian <hi>to her Husband:</hi> Paris <hi>in this Epiſtle, endeavours to ex<g ref="char:EOLhyphen"/>tenuate his fault; laying the blame ſometimes on Fate and Fortune, and ſometimes on the force of Love. With gentle words he tryes to mitigate her Affliction; and concludes adviſing her to exert her utmoſt Skill in Magick (for which ſhe was famous) to procure quiet to her ſelf, by reviving his Paſſion for her, or by extinguiſhing her own.</hi>
+               </p>
+            </argument>
+            <l>WHilſt you of me ſo juſtly, Nymph, complain,</l>
+            <l>I ſeek for plauſible replyes in vain.</l>
+            <l>
+               <pb n="19" facs="tcp:99952:12"/>
+I own my fault, confeſs my broken Vows,</l>
+            <l>Yet my new Love no Penitence allows.</l>
+            <l>May this acknowledgment procure thee reſt,</l>
+            <l>And calm the Tempeſts of <hi>OEnone</hi>'s Breaſt.</l>
+            <l>I <hi>Cupid</hi>'s Slave his Orders but obey,</l>
+            <l>Deſerting thee for charming <hi>Helena.</hi>
+            </l>
+            <l>Your Wit and Beauty, Nymph, you know did move</l>
+            <l>My firſt young Wiſhes, and my bloom of Love.</l>
+            <l>My Glorious Birth then troubled not our Joy;</l>
+            <l>Love and our Flocks did all our thoughts employ.</l>
+            <l>If talk of Greatneſs mingled with our ſport,</l>
+            <l>I ſwore <hi>OEnone</hi> might adorn a Court.</l>
+            <l>Thus, tho' now chang'd, did then upon thee ſmile</l>
+            <l>Love; whom to Reaſon what can reconcile?</l>
+            <l>When you from <hi>Pan,</hi> and from the Satyrs fled,</l>
+            <l>To take a Private Shepherd to your Bed,</l>
+            <l>Was it your Reaſon then you did purſue?</l>
+            <l>Or kept you ought beſide your Love in view?</l>
+            <l>My preſent Paſſion is from Fate; for e're</l>
+            <l>I did of <hi>Leda</hi>'s Beauteous Daughter hear,</l>
+            <l>
+               <pb n="20" facs="tcp:99952:13"/>
+Inſpir'd <hi>Caſſandra</hi> did foretel the thing,</l>
+            <l>
+               <hi>Paris</hi> ſhall <hi>Helena</hi> to <hi>Ilium</hi> bring.</l>
+            <l>In every circumſtance too well you ſee</l>
+            <l>Th' event has juſtifi'd her prophecy:</l>
+            <l>Except thoſe wounds of mine, which yet remain,</l>
+            <l>To bring me to my pitying Nymph again.</l>
+            <l>Still I remember ſweet <hi>O Enone's</hi> fear,</l>
+            <l>When firſt we did the ſtrange prediction hear.</l>
+            <l>Melting in Tears—Ah then, will Fate remove</l>
+            <l>Her <hi>Paris</hi> from the loſt <hi>O Enone's</hi> Love!</l>
+            <l>Muſt he ſuch Wars, Slaughters, and Ruin bring!</l>
+            <l>Be found a Prince thus to involve the King:</l>
+            <l>Love taught me threatned dangers to deſpiſe:</l>
+            <l>And Love equipt me for my Enterpriſe.</l>
+            <l>To him impute the Crime, and me forgive;</l>
+            <l>The God, not <hi>Paris,</hi> does the Nymph deceive.</l>
+            <l>Againſt his Pleaſure what can Mortals ſay,</l>
+            <l>Whoſe Pow'r th'immortal Gods themſelves obey?</l>
+            <l>When Mighty <hi>Jove</hi> the fire of <hi>Cupid</hi> burns,</l>
+            <l>Into a thouſand various ſhapes he turns.</l>
+            <l>
+               <pb n="21" facs="tcp:99952:13"/>
+               <hi>Europa</hi>'s Bull, and <hi>Danae</hi>'s Golden ſhower,</l>
+            <l>Put each a Lovely Virgin in his Power.</l>
+            <l>Not Charming <hi>Helen</hi> (cauſe of all thy care)</l>
+            <l>Had been ſo wondrous, ſo divinely Fair,</l>
+            <l>Had not Great <hi>Jove</hi> the Silver Plumes put on,</l>
+            <l>And cheated <hi>Leda</hi> with a ſeeming Swan.</l>
+            <l>O're <hi>Piny Ida, Jove,</hi> an Eagle flies,</l>
+            <l>With his lov'd <hi>Ganimed</hi> to diſtant Skies.</l>
+            <l>The Valiant <hi>Hercules,</hi> ſo fierce and bold,</l>
+            <l>For <hi>Omphale,</hi> did a weak Diſtaff hold:</l>
+            <l>Clad like a Maid he ſat him down to ſpin,</l>
+            <l>And Conqu'ring ſhe put on the Lyon's Skin.</l>
+            <l>Your ſelf <hi>Apollo</hi>'s proffer'd Love decline,</l>
+            <l>And ſhun a God's Embraces to be mine.</l>
+            <l>Not that a Shepherd with a God can vye,</l>
+            <l>But it ſo pleaſes <hi>Cupid</hi>'s Deity.</l>
+            <l>If my new Paſſion ſtill thy mind diſpleaſe,</l>
+            <l>Yet this at leaſt methinks might give thee eaſe;</l>
+            <l>That nothing in my Breaſt cou'd quench thy Love,</l>
+            <l>But the Bright Daughter of the awful <hi>Jove:</hi>
+            </l>
+            <l>
+               <pb n="22" facs="tcp:99952:14"/>
+Tho' yet her boaſted Birth and Mighty Race</l>
+            <l>Enflame me leſs than her Enchanting Face.</l>
+            <l>I wiſh I had unskill'd in Beauty been;</l>
+            <l>Then Rival Goddeſſes I had not ſeen:</l>
+            <l>Not been obnoxious to great <hi>Juno's</hi> hate;</l>
+            <l>Nor Wiſe <hi>Minerva</hi> then ſhou'd irritate.</l>
+            <l>The fatal Apple I to <hi>Venus</hi> gave,</l>
+            <l>Binds me for ever <hi>Citherea</hi>'s Slave.</l>
+            <l>She her Son's Darts will diſtribute around,</l>
+            <l>And give him Orders when and where to wound;</l>
+            <l>Yet is her ſelf oft wounded by his Dart,</l>
+            <l>The Wanton Boy ſpares not his Mother's Heart.</l>
+            <l>
+               <hi>Mars</hi> to her Bed ſo often did reſort,</l>
+            <l>All Heaven at laſt was witneſs to their ſport.</l>
+            <l>Then to attract <hi>Anchiſes</hi> to her Arms,</l>
+            <l>Appears a Mortal with Celeſtial Charms.</l>
+            <l>What wonder Love ſhou'd have tranſported me,</l>
+            <l>When his own Mother <hi>Venus</hi> is not free?</l>
+            <l>Wrong'd <hi>Menelaus,</hi> tho' hated, Loves; can I,</l>
+            <l>On whom ſhe dotes from the Fair Princeſs fly?</l>
+            <l>
+               <pb n="23" facs="tcp:99952:14"/>
+I ſee the gathering Clouds from <hi>Sparta</hi> riſe,</l>
+            <l>And threatning Tempeſts thicken in the Skies.</l>
+            <l>The Angry Greeks with Armies menace us,</l>
+            <l>And Hoſtile Fleets rig out for <hi>Pergamus.</hi>
+            </l>
+            <l>Let' em come on, and fight us if they dare;</l>
+            <l>To keep this Beauty we accept their War.</l>
+            <l>Her Face, <hi>OEnone,</hi>'s ſo Divine a thing,</l>
+            <l>'Tis worth the Cares and Dangers of a King.</l>
+            <l>The <hi>Grecian</hi> Princes haſting all to Arms,</l>
+            <l>Enough evince (if you ſtill doubt her Charms.)</l>
+            <l>But her for whom they Fleets and Armies ſend,</l>
+            <l>With greater force the <hi>Trojan's</hi> will defend.</l>
+            <l>If any hope <hi>OEnone</hi> you retain,</l>
+            <l>Of ever freeing me from <hi>Helen</hi>'s Chain,</l>
+            <l>Quick to thoſe powerful Herbs and Arts repair,</l>
+            <l>By which thou rul'ſt in Heaven, Earth, Sea, and Air.</l>
+            <l>Not <hi>Phebus</hi> ſelf is learneder than thee,</l>
+            <l>Scarce are the Gods from thy ſtrong Magick free.</l>
+            <l>Thou by the mighty workings of thine Art,</l>
+            <l>From their pale Orbs the trembling Stars canſt part:</l>
+            <l>
+               <pb n="24" facs="tcp:99952:15"/>
+Call down the Moon, the Sun's ſwift motion ſtay,</l>
+            <l>Protract the darkneſs, and arreſt the day.</l>
+            <l>As Bulls I fed, among the Herd there came</l>
+            <l>Fierce Lyons, made by thy Enchantments tame.</l>
+            <l>Swift <hi>Simois</hi> and <hi>Xanthus</hi> Chriſtal wave</l>
+            <l>Forbore to flow, when your Commands you gave.</l>
+            <l>Your Father <hi>Cebres</hi> Waters too ſubmit;</l>
+            <l>Nor ſlight thy Charm, ſince all acknowledge it.</l>
+            <l>Now, wiſeſt Nymph, exert thine utmoſt Art,</l>
+            <l>Quench thy own Fires, or re-inflame my Heart.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99952:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
